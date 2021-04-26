@@ -18,7 +18,7 @@
         <maven.compiler.plugin.version>3.8.1</maven.compiler.plugin.version>
         <selenium.version>3.141.59</selenium.version>
         <hamcrest.version>2.1</hamcrest.version>
-        <common.io.version>2.4</common.io.version>
+        <common.io.version>2.7</common.io.version>
         <rest-assured.version>4.1.1</rest-assured.version>
         <webdrivermanager.version>3.7.1</webdrivermanager.version>
 
